@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="t-sports-fhd" tvg-name="T Sports FHD" group-title="Sports",T Sports FHD
 https://node1.cdn-ottking1.workers.dev/T-SPORTS_FHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1789106281493" tvg-name="bein_sports_3" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/bein3.png" group-title="Sports",bein_sports_3
 http://100.100.100.2/flussonic/f8b2d4e5f002.php?stream=bein_sports_3&format=m3u8
