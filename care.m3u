@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="t-sports-fhd" tvg-name="T Sports FHD" group-title="Sports",T Sports FHD
 https://node1.cdn-ottking1.workers.dev/T-SPORTS_FHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="channel_9" tvg-name="T Sports Srk" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/t_sports1.png" group-title="Sports",T Sports Srk
+http://100.100.100.2/flussonic/f8b2d4e5f002.php?stream=t_sports_vip&format=m3u8
+#EXTINF:-1 tvg-id="channel_9" tvg-name="T Sports Srk" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/t_sports1.png" group-title="Sports",T Sports Srk
+http://100.100.100.2/flussonic/f8b2d4e5f002.php?stream=t_sports_vip&format=m3u8
 #EXTINF:-1 tvg-id="1789106281493" tvg-name="bein_sports_3" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/bein3.png" group-title="Sports",bein_sports_3
 http://100.100.100.2/flussonic/f8b2d4e5f002.php?stream=bein_sports_3&format=m3u8
 #EXTINF:-1 tvg-id="1789106014951" tvg-name="bein_sports_2" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/1789106917_bein2.png" group-title="Sports",bein_sports_2
@@ -29,16 +33,12 @@ http://100.100.100.2/flussonic/f7a1c3d4e001.php?stream=unite8_sports_2_bengal&fo
 http://100.100.100.2/flussonic/f8b2d4e5f002.php?stream=star_sports_1_hd&format=m3u8
 #EXTINF:-1 tvg-id="channel_7" tvg-name="willow tv" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/willowtv.png" group-title="Sports",willow tv
 http://100.100.100.2/flussonic/fe48d0e1f008.php?stream=feed_willowtv&format=m3u8
-#EXTINF:-1 tvg-id="channel_9" tvg-name="T Sports Srk" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/t_sports1.png" group-title="Sports",T Sports Srk
-http://100.100.100.2/flussonic/f8b2d4e5f002.php?stream=t_sports_vip&format=m3u8
 #EXTINF:-1 tvg-id="channel_10" tvg-name="A Sports HD" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/a_sports_hd.png" group-title="Sports",A Sports HD
 http://100.100.100.2/flussonic/f7a1c3d4e001.php?stream=asports&format=m3u8
 #EXTINF:-1 tvg-id="channel_12" tvg-name="Unite8 Sports 1 HD" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/unite8_sports_1.png" group-title="Sports",Unite8 Sports 1 HD
 http://100.100.100.2/flussonic/f7a1c3d4e001.php?stream=unite8_sports_1_sn&format=m3u8
 #EXTINF:-1 tvg-id="channel_13" tvg-name="Sony Ten 5 HD" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/ten5_sn.png" group-title="Sports",Sony Ten 5 HD
 http://100.100.100.2/flussonic/f7a1c3d4e001.php?stream=ten_5_sn&format=m3u8
-#EXTINF:-1 tvg-id="channel_15" tvg-name="T Sports SN" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/tsport.png" group-title="Sports",T Sports SN
-http://100.100.100.2/flussonic/f7a1c3d4e001.php?stream=tsports_hd_sn&format=m3u8
 #EXTINF:-1 tvg-id="channel_16" tvg-name="A Sports Hd" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/a_sports_hd.png" group-title="Sports",A Sports Hd
 http://100.100.100.2/flussonic/f8b2d4e5f002.php?stream=a_sports_hd&format=m3u8
 #EXTINF:-1 tvg-id="channel_17" tvg-name="Eurosports Hd" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/eurosports_hd.png" group-title="Sports",Eurosports Hd
