@@ -77,22 +77,6 @@ http://100.100.100.2/flussonic/a283b4c5d012.php?stream=2live&format=m3u8
 http://100.100.100.2/flussonic/a283b4c5d012.php?stream=live_cricket&format=m3u8
 #EXTINF:-1 tvg-id="channel_170" tvg-name="Live Cricket 1" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/sntv/live_cricket.png" group-title="Sports",Live Cricket 1
 http://100.100.100.2/flussonic/a283b4c5d012.php?stream=live_cricket_1&format=m3u8
-#EXTINF:-1 tvg-id="channel_171" tvg-name="Live Football" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/sntv/live_football.png" group-title="Sports",Live Football
-http://100.100.100.2/flussonic/a283b4c5d012.php?stream=live_football&format=m3u8
-#EXTINF:-1 tvg-id="channel_172" tvg-name="Live Football 1" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/sntv/live_football.png" group-title="Sports",Live Football 1
-http://100.100.100.2/flussonic/a283b4c5d012.php?stream=live_football_1&format=m3u8
-#EXTINF:-1 tvg-id="channel_173" tvg-name="Live Football 2" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/sntv/live_football.png" group-title="Sports",Live Football 2
-http://100.100.100.2/flussonic/a283b4c5d012.php?stream=live_football_2&format=m3u8
-#EXTINF:-1 tvg-id="auto_848152f392380e8156c0" tvg-name="Football - 21 Sep 2026 [ENG]" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/liveevents.png" group-title="Sports",Football - 21 Sep 2026 [ENG]
-http://100.100.100.2/flussonic/a6c7f8a9b016.php?stream=1090543296_ENG&format=m3u8
-#EXTINF:-1 tvg-id="auto_cc0088268d4cf1beda2f" tvg-name="Football - 21 Sep 2026 [HIN]" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/liveevents.png" group-title="Sports",Football - 21 Sep 2026 [HIN]
-http://100.100.100.2/flussonic/a6c7f8a9b016.php?stream=1090543296_HIN&format=m3u8
-#EXTINF:-1 tvg-id="auto_4dbfa8cb98aa438850d2" tvg-name="Football - 21 Sep 2026 [TAM]" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/liveevents.png" group-title="Sports",Football - 21 Sep 2026 [TAM]
-http://100.100.100.2/flussonic/a6c7f8a9b016.php?stream=1090543296_TAM&format=m3u8
-#EXTINF:-1 tvg-id="auto_deffbe0df806ffa99f8e" tvg-name="Football - 21 Sep 2026 [TEL]" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/liveevents.png" group-title="Sports",Football - 21 Sep 2026 [TEL]
-http://100.100.100.2/flussonic/a6c7f8a9b016.php?stream=1090543296_TEL&format=m3u8
-#EXTINF:-1 tvg-id="auto_d6eaefbbc2a089275581" tvg-name="Football - 21 Sep 2026 [KAN]" tvg-genre="Sports" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/liveevents.png" group-title="Sports",Football - 21 Sep 2026 [KAN]
-http://100.100.100.2/flussonic/a6c7f8a9b016.php?stream=1090543296_KAN&format=m3u8
 #EXTINF:-1 tvg-id="channel_31" tvg-name="71" tvg-genre="Bangla News" tvg-language="Bengali" tvg-country="BD" tvg-logo="http://100.100.100.2/img/71.png" group-title="Bangla News",71
 http://100.100.100.2/flussonic/f9c3e5f6a003.php?stream=71_tv&format=m3u8
 #EXTINF:-1 tvg-id="channel_35" tvg-name="Atn News" tvg-genre="Bangla News" tvg-language="Bengali" tvg-country="BD" tvg-logo="http://100.100.100.2/img/atn_news.png" group-title="Bangla News",Atn News
@@ -322,23 +306,6 @@ http://100.100.100.2/flussonic/fd37c9d0e007.php?stream=peace_tv_bangla&format=m3
 #EXTINF:-1 tvg-id="channel_123" tvg-name="Iqra Bangla" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/iqra_bangla.png" group-title="Other Channels",Iqra Bangla
 http://100.100.100.2/flussonic/fd37c9d0e007.php?stream=iqra_bangla&format=m3u8
 #EXTINF:-1 tvg-id="channel_124" tvg-name="Aljazeera Hd" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/aljazeera_hd.png" group-title="Other Channels",Aljazeera Hd
-http://100.100.100.2/flussonic/ff59e1f2a009.php?stream=aljazeera_hd&format=m3u8
-#EXTINF:-1 tvg-id="channel_125" tvg-name="And Flix Hd" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/and_flix_hd.png" group-title="Other Channels",And Flix Hd
-http://100.100.100.2/flussonic/ff59e1f2a009.php?stream=and_flix_hd&format=m3u8
-#EXTINF:-1 tvg-id="channel_126" tvg-name="And Prive Hd" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/and_prive_hd.png" group-title="Other Channels",And Prive Hd
-http://100.100.100.2/flussonic/ff59e1f2a009.php?stream=and_prive_hd&format=m3u8
-#EXTINF:-1 tvg-id="channel_127" tvg-name="Axn Hd" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/axn_hd.png" group-title="Other Channels",Axn Hd
-http://100.100.100.2/flussonic/ff59e1f2a009.php?stream=axn_hd&format=m3u8
-#EXTINF:-1 tvg-id="channel_129" tvg-name="Bbc News" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/bbc_news.png" group-title="Other Channels",Bbc News
-http://100.100.100.2/flussonic/ff59e1f2a009.php?stream=bbc_news&format=m3u8
-#EXTINF:-1 tvg-id="channel_130" tvg-name="Hitz Music" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/hitz_music.png" group-title="Other Channels",Hitz Music
-http://100.100.100.2/flussonic/ff59e1f2a009.php?stream=hitz_music&format=m3u8
-#EXTINF:-1 tvg-id="channel_131" tvg-name="Lotus Tv" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/lotus_tv.png" group-title="Other Channels",Lotus Tv
-http://100.100.100.2/flussonic/ff59e1f2a009.php?stream=lotus_tv&format=m3u8
-#EXTINF:-1 tvg-id="channel_133" tvg-name="Mn Plus" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/mn_plus.png" group-title="Other Channels",Mn Plus
-http://100.100.100.2/flussonic/ff59e1f2a009.php?stream=mn_plus&format=m3u8
-#EXTINF:-1 tvg-id="channel_134" tvg-name="Mnx Hd" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/mnx_hd.png" group-title="Other Channels",Mnx Hd
-http://100.100.100.2/flussonic/ff59e1f2a009.php?stream=mnx_hd&format=m3u8
 #EXTINF:-1 tvg-id="channel_135" tvg-name="Movies Now Hd" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/movies_now_hd.png" group-title="Other Channels",Movies Now Hd
 http://100.100.100.2/flussonic/ff59e1f2a009.php?stream=movies_now_hd&format=m3u8
 #EXTINF:-1 tvg-id="channel_136" tvg-name="Romedy Now" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/romedy_now.png" group-title="Other Channels",Romedy Now
@@ -351,25 +318,3 @@ http://100.100.100.2/flussonic/ff59e1f2a009.php?stream=star_movies_hd&format=m3u
 http://100.100.100.2/flussonic/ff59e1f2a009.php?stream=star_movies_select_hd&format=m3u8
 #EXTINF:-1 tvg-id="channel_140" tvg-name="Zee Cafe Hd" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/zee_cafe_hd.png" group-title="Other Channels",Zee Cafe Hd
 http://100.100.100.2/flussonic/ff59e1f2a009.php?stream=zee_cafe_hd&format=m3u8
-#EXTINF:-1 tvg-id="channel_156" tvg-name="9X Jalwa" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/9x_jalwa.png" group-title="Other Channels",9X Jalwa
-http://100.100.100.2/flussonic/a172a3b4c011.php?stream=9x_jalwa&format=m3u8
-#EXTINF:-1 tvg-id="channel_157" tvg-name="B4U Music" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/b4u_music.png" group-title="Other Channels",B4U Music
-http://100.100.100.2/flussonic/a172a3b4c011.php?stream=b4u_music&format=m3u8
-#EXTINF:-1 tvg-id="channel_158" tvg-name="Sangeet Bangla" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/sangeet_bangla.png" group-title="Other Channels",Sangeet Bangla
-http://100.100.100.2/flussonic/a172a3b4c011.php?stream=sangeet_bangla&format=m3u8
-#EXTINF:-1 tvg-id="channel_159" tvg-name="9Xm" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/9xm.png" group-title="Other Channels",9Xm
-http://100.100.100.2/flussonic/a172a3b4c011.php?stream=9xm&format=m3u8
-#EXTINF:-1 tvg-id="channel_160" tvg-name="Mastiii" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/mastiii.png" group-title="Other Channels",Mastiii
-http://100.100.100.2/flussonic/a172a3b4c011.php?stream=mastiii&format=m3u8
-#EXTINF:-1 tvg-id="channel_161" tvg-name="B4U Music India" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/b4u_music_india.png" group-title="Other Channels",B4U Music India
-http://100.100.100.2/flussonic/a172a3b4c011.php?stream=b4u_music_india&format=m3u8
-#EXTINF:-1 tvg-id="channel_162" tvg-name="4 Music" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/4_music.png" group-title="Other Channels",4 Music
-http://100.100.100.2/flussonic/a172a3b4c011.php?stream=4_music&format=m3u8
-#EXTINF:-1 tvg-id="channel_163" tvg-name="Zoom" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/zoom.png" group-title="Other Channels",Zoom
-http://100.100.100.2/flussonic/a172a3b4c011.php?stream=zoom&format=m3u8
-#EXTINF:-1 tvg-id="channel_164" tvg-name="Trace Urban" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/trace_urban.png" group-title="Other Channels",Trace Urban
-http://100.100.100.2/flussonic/a172a3b4c011.php?stream=trace_urban&format=m3u8
-#EXTINF:-1 tvg-id="channel_165" tvg-name="Show Box" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/show_box.png" group-title="Other Channels",Show Box
-http://100.100.100.2/flussonic/a172a3b4c011.php?stream=show_box&format=m3u8
-#EXTINF:-1 tvg-id="channel_166" tvg-name="Yrf Music Hd" tvg-genre="Other Channels" tvg-language="English" tvg-country="BD" tvg-logo="http://100.100.100.2/img/yrf_music_hd.png" group-title="Other Channels",Yrf Music Hd
-http://100.100.100.2/flussonic/a172a3b4c011.php?stream=yrf_music_hd&format=m3u8
